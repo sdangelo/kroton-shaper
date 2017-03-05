@@ -1,0 +1,33 @@
+{
+  "name": "kroton-shaper",
+  "version": "0.0.0",
+  "description": "Kroton math shaper",
+  "main": "kroton-shaper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sdangelo/kroton-shaper.git"
+  },
+  "keywords": [
+    "kroton",
+    "math",
+    "layout",
+    "typesetting",
+    "shaper",
+    "layout"
+  ],
+  "author": "Stefano D'Angelo <zanga.mail@gmail.com> (http://sdangelo.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdangelo/kroton-shaper/issues",
+    "email": "zanga.mail@gmail.com"
+  },
+  "dependencies": {
+    "sfnt-shaper": "0.0.x"
+  },
+  "peerDependencies": {
+    "kroton": "0.0.x"
+  }
+}
